@@ -1,7 +1,6 @@
 import os
 import time
 import sys
-from django.http import cookie
 import requests
 from colorama import init,Fore,Style
 import signal
