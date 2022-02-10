@@ -1,0 +1,10 @@
+######-Requirements-######
+
+#-Pwntools-#
+pwntools
+#-Colorama-#
+colorama
+#-Requests-#
+requests
+#-JWT-#
+PyJWT
